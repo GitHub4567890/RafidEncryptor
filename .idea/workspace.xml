@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699738d9-5dfa-4341-8d81-fd1cf7710d2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AAAA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encryptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EncryptorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EncryptorTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AAAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AAAA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
